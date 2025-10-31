@@ -1,0 +1,27 @@
+{
+  "name": "pf03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practica.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriancarretero19/PF03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriancarretero19/PF03/issues"
+  },
+  "homepage": "https://github.com/adriancarretero19/PF03#readme",
+  "devDependencies": {
+    "vitest": "^4.0.5"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
